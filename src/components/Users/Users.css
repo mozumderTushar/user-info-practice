@@ -1,0 +1,15 @@
+.user-info{
+    margin: 20px;
+    padding: 10px;
+}
+.user-info img{
+    border-radius: 50%;
+}
+.addBtn{
+    width: 150px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border:none;
+    background-color: gray;
+}
